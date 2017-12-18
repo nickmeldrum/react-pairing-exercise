@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import ProductSearch from './ProductSearch';
-import SearchResults from './SearchResults';
+import ProductSearch from '../ProductSearch';
+import SearchResults from '../SearchResults';
 
 const products = [
   {id: '604659-319594-319595', name: 'Waitrose Christmas French Brie Strength 3', displayPrice: '£4.50', thumbnail: 'https://d25hqtnqp5nl24.cloudfront.net/images/products/9/LN_604659_BP_9.jpg'},
